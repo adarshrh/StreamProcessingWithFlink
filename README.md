@@ -1,5 +1,8 @@
 **Streams tweets containg specific terms to the kafka topic**
+Tweets having hash tag #Messi is read from twitter api
+
 Steps involved:
+
 Generate Twitter API keys
 Install kafka, zookeeper and create kafka topic
 Run java program with the following appropriate command line arguments
